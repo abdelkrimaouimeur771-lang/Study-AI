@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow AI",
+  "description": "StudyFlow AI helps students create summaries, quizzes, flashcards, and study plans using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
